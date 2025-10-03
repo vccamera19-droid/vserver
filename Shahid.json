@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ab1309ac0b770758",
+    "username": "vcam",
+    "password": "Hafizul1Vcmerap",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "6d95fal7c7e40bea",
+    "username": "dpmods",
+    "password": "Hafizul1Vcmerap",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "android_device_id_2",
+    "username": "user2",
+    "password": "Hafizul1Vcmerap",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
+  }
+]
