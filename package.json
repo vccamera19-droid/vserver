@@ -1,12 +1,12 @@
 [
   {
-    "Device Id": "9f33a75302554dd2", 
+    "Device Id": "9f33a75302554dd2",
     "username": "Admin",
     "password": "Admin@2",
-    "expiry": "2090-10-15" // DATE FORMAT~ YYYY-MM-DD
+    "expiry": "2090-10-15"
   },
   {
-    "Device Id": "",  // NO DEVICE ID, LOGIN NOT WORK 
+    "Device Id": "",
     "username": "abc",
     "password": "101",
     "expiry": "2026-09-29"
@@ -15,6 +15,6 @@
     "Device Id": "PASTE-DEVICE-ID",
     "username": "def",
     "password": "102",
-    "expiry": "" // NO DATE NO EXPIRY UNLIMITED KEY 
+    "expiry": ""
   }
 ]
