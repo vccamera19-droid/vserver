@@ -4,11 +4,5 @@
     "username": "Admin",
     "password": "Admin@2",
     "expiry": "2090-10-15"
-  },
-  {
-    "Device Id": "",
-    "username": "abc",
-    "password": "101",
-    "expiry": "2026-09-29"
   }
 ]
