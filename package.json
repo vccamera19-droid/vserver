@@ -1,15 +1,20 @@
-{
-  "name": "vcamera-server",
-  "version": "1.0.0",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
+[
+  {
+    "Device Id": "9f33a75302554dd2", 
+    "username": "Admin",
+    "password": "Admin@1",
+    "expiry": "2090-10-15" // DATE FORMAT~ YYYY-MM-DD
   },
-  "dependencies": {
-    "express": "^4.19.0",
-    "pg": "^8.11.0",
-    "bcrypt": "^5.1.0",
-    "jsonwebtoken": "^9.0.0",
-    "dotenv": "^16.3.0"
+  {
+    "Device Id": "",  // NO DEVICE ID, LOGIN NOT WORK 
+    "username": "abc",
+    "password": "101",
+    "expiry": "2026-09-29"
+  },
+  {
+    "Device Id": "PASTE-DEVICE-ID",
+    "username": "def",
+    "password": "102",
+    "expiry": "" // NO DATE NO EXPIRY UNLIMITED KEY 
   }
-}
+]
