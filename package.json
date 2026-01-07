@@ -18,7 +18,7 @@
     "username": "vcamera1234",
     "password": "vc@43",
     "expiry": "",
-    "locked": false
+    "locked": true
   },
   {
     "Device Id": "bcc4a114e161df89",
