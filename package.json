@@ -47,5 +47,12 @@
     "password": "Boss@1234",
     "expiry": "2026-02-10",
     "locked": false
+  },
+  {
+    "Device Id": "67289e384d525508",
+    "username": "vcamerapro123",
+    "password": "Vcamera@1230",
+    "expiry": "2026-02-12",
+    "locked": false
   }
 ]
