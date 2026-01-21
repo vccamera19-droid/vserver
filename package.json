@@ -32,7 +32,7 @@
     "username": "Trey1234",
     "password": "Trey@1234",
     "expiry": "2026-02-10",
-    "locked": true
+    "locked": false
   },
   {
     "Device Id": "bf87fc76f52018fd",
