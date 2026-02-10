@@ -32,14 +32,14 @@
     "username": "Trey1234",
     "password": "Trey@1234",
     "expiry": "2026-02-10",
-    "locked": false
+    "locked": true
   },
   {
     "Device Id": "bf87fc76f52018fd",
     "username": "khaled1234",
     "password": "Khaled@12",
     "expiry": "2026-02-07",
-    "locked": false
+    "locked": true
   },
   {
     "Device Id": "c7312",
@@ -95,6 +95,13 @@
     "username": "A1234",
     "password": "B1234",
     "expiry": "2027-01-27",
+    "locked": false
+  },
+  {
+    "Device Id": "5144d8be4e4db395",
+    "username": "Omorbek",
+    "password": "1234",
+    "expiry": "2027-02-10",
     "locked": false
   }
 ]
